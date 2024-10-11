@@ -1,6 +1,6 @@
 # CybersecPortfolio
 
-Welcome to **CybersecPortfolio**, a showcase of my cybersecurity projects, tools, and research. This portfolio demonstrates my experience and skills in areas like penetration testing, security assessments, and threat analysis, emphasizing my ability to work on real-world cybersecurity challenges.
+Hello I'm Amirul Hilmy and this is my **Cybersecurity Portfolio**, a showcase of my cybersecurity projects, tools, and research. This portfolio demonstrates my experience and skills in areas like penetration testing, security assessments, and threat analysis, emphasizing my ability to work on real-world cybersecurity challenges.
 
 ## Projects
 
