@@ -5,7 +5,7 @@ Hello I'm Amirul Hilmy and this is my **Cybersecurity Portfolio**, a showcase of
 
 
 ## Connect
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/amirulhilmyz)
+- **LinkedIn:** [linkedin.com/in/amirulhilmyz](https://linkedin.com/in/amirulhilmyz)
 
 
 ## License
