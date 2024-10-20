@@ -9,6 +9,3 @@ Hello I'm Amirul Hilmy and this is my **Cybersecurity Portfolio**, a showcase of
 
 - **Cybersecurity Portfolio:** [CybersSec Portfolio](https://drive.google.com/drive/folders/1TUGVwk8SgicCcVVBjbTXsjgUSU-2IYlp?usp=sharing)
 
-
-## License
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
